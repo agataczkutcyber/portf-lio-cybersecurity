@@ -11,10 +11,10 @@ Conteúdo:
 - Monitoramento de Logs
 - Geração de Alertas
 
-  Objetivo:
+Objetivo:
 
   Compartilhar conhecimento e auxiliar outros estudantes na criação de ambientes de estudo para Segurança Defensiva (Blue Team)
 
-  Arquivo:
+Arquivo:
 
   A apostila completa está disponível em PDF neste repositório.
