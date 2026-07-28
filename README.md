@@ -38,6 +38,7 @@ E-book "ISO 27001 e GRC Descomplicado"
 
 Material desenvolvido para iniciantes em Governança, Riscos e Compliance, abordando os principais conceitos da ISO/IEC 27001 e GRC de forma prática.
 
+
 Ferramentas
 Wazuh
 Nmap
